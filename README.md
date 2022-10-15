@@ -190,6 +190,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### *X*
 
 - ### *Y*
+- [Yash Dalvi](https://github.com/Zoker-123)
 
 - ### *Z*
 
